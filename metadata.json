@@ -1,0 +1,7 @@
+{
+  "name": "M/s Radha Krishna Enterprise",
+  "description": "Comprehensive website for M/s Radha Krishna Enterprise, specialists in Electrical & Instrumentation turnkey solutions, featuring services, projects, client portfolio, and technical infrastructure.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
